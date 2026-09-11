@@ -7,28 +7,28 @@ A fictional organization is onboarding a third party SaaS vendor that will proce
 
 ## TPRM Lifecycle Demonstrated
 
-Vendor Identification and Criticality
-Due Diligence and Security Assessment
-Risk Matrix Calculation
-Risk Identification and Evaluation
-Risk Scoring
-Control Assessment
-Risk Acceptance and Approvals
-Vendor Onboarding and Contract Signing
-Continuous Monitoring
-Remediation Efforts
-Incident Response Plan
-Vendor Offboarding
+Vendor Identification and Criticality,
+Due Diligence and Security Assessment,
+Risk Matrix Calculation,
+Risk Identification and Evaluation,
+Risk Scoring,
+Control Assessment,
+Risk Acceptance and Approvals,
+Vendor Onboarding and Contract Signing,
+Continuous Monitoring,
+Remediation Efforts,
+Incident Response Plan,
+Vendor Offboarding,
 
 ## Portfolio Deliverables
 
-Vendor Criticality Assessment
-Third Party Security Questionnaires
-Vendor Risk Assessment Methodology
-Vendor Risk Register
-Risk Scoring Methodology
-Remediation and Treatment Plan
-Vendor Risk Report and Metrics
-Vendor Offboarding Process
-Ongoing Monitoring Program Plan (vendor re-evaluation)
+Vendor Criticality Assessment,
+Third Party Security Questionnaires,
+Vendor Risk Assessment Methodology,
+Vendor Risk Register,
+Risk Scoring Methodology,
+Remediation and Treatment Plan,
+Vendor Risk Report and Metrics,
+Vendor Offboarding Process,
+Ongoing Monitoring Program Plan (vendor re-evaluation),
 
